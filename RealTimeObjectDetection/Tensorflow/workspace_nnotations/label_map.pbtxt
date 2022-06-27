@@ -1,0 +1,32 @@
+item { 
+	name:'viteza_limita_30'
+	id:1
+}
+item { 
+	name:'viteza_limita_40'
+	id:2
+}
+item { 
+	name:'interzis'
+	id:3
+}
+item { 
+	name:'persoana'
+	id:4
+}
+item { 
+	name:'stop'
+	id:5
+}
+item { 
+	name:'trecere_pietoni'
+	id:6
+}
+item { 
+	name:'semafor_verde'
+	id:7
+}
+item { 
+	name:'semafor_rosu'
+	id:8
+}
